@@ -1,7 +1,3 @@
-import java.util.Collection;
-import java.util.HashMap;
-import java.util.Map;
-
 public class Zarzadzanie {
 
     public static void main(String[]args){
